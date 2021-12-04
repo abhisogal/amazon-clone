@@ -8,6 +8,7 @@ function Header() {
     <div className="header">
         <img
           className="header__logo"
+          alt=""
           src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
         />
 
